@@ -5,7 +5,7 @@ I used [link](https://www.jdoodle.com/execute-fortran-online/) as an online comp
 In order to modify input data, it's hard coded into the BonusMergeSort program.\
 `program BonusMergeSort`\
 &nbsp;&nbsp;&nbsp;&nbsp;`integer, parameter :: N = 10`\
-&nbsp;&nbsp;&nbsp;&nbsp;`integer :: X(N) = (/ 10, 9, 8, 7, 1, 3, 2, 6, 5, 4 /)`\
+&nbsp;&nbsp;&nbsp;&nbsp;`integer :: X(N) = (/ 10, 9, 8, 7, 1, 3, 2, 6, 5, 4 /)`
         
 You may change the size of the array in the first line (e.g. N = 3)
 To change the array inputs, you may change it in the second line (i.e. => X(N) = (/ 7, 3, 3/)
