@@ -10,7 +10,7 @@ In order to modify input data, it's hard coded into the BonusMergeSort program.\
 You may change the size of the array in the first line\
 To change the array inputs, you may change it in the second line\
 
-`!!! For example`
-&nbsp;&nbsp;&nbsp;&nbsp;`integer, parameter :: N = 3`
+`!!! For example`\
+&nbsp;&nbsp;&nbsp;&nbsp;`integer, parameter :: N = 3`\
 &nbsp;&nbsp;&nbsp;&nbsp;`integer :: X(N) = (/ 7, 3, 3/)`
 
